@@ -1179,7 +1179,9 @@ body.light-theme {
   }
 
   .work__img {
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
+    height: 150px;
+    object-fit: cover;
   }
 
   .work__title {
